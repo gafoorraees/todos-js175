@@ -1,1 +1,1 @@
-# todos-js175
+A personal task management app made with JavaScript, Express, and Pug.
